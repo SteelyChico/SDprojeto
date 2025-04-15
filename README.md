@@ -1,5 +1,4 @@
 # SDprojeto
 
 Alunos:
-João Lucas (jlvs)
-Angel Willyan (awrl)
+João Lucas (jlvs), Angel Willyan (awrl)
