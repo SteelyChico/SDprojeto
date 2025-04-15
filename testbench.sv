@@ -1,5 +1,3 @@
-`include "mips_processor.sv"
-
 module testbench;
     reg clk;
     reg reset;
